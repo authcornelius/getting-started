@@ -8,7 +8,7 @@ const App = () => {
       <Text style={{ fontSize: 20, marginBottom: 20 }}>Welcome to Git-ting Started!</Text>
 
       <View style={{ marginTop: 20, borderRadius: 10, overflow: 'hidden', paddingVertical: 10, paddingHorizontal: 20, backgroundColor: 'red' }}>
-        <Button title="View Repository" onPress={() => Linking.openURL('https://github.com/authcornelius/Git-ting')} />
+        <Button title="View Repository" onPress={() => Linking.openURL('https://github.com/authcornelius/getting-started')} />
       </View>
 
       <View style={{ marginTop: 20, borderRadius: 10, overflow: 'hidden', paddingVertical: 10, paddingHorizontal: 20, backgroundColor: 'red' }}>
